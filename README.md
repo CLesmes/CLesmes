@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me my e-mail is lesmescris@gmail.com
+- 
 
 <!---
 CLesmes/CLesmes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
