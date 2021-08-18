@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CLesmes, living in England but originally from Colombia
+- 👋 Hi, I’m @Cristina Lesmes, living in England but originally from Colombia
 - 👀 I’m interested in learning a little bit of computer science to help me in my jib
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on projects 
